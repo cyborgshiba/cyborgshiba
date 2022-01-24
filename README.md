@@ -1,5 +1,5 @@
 ### CyborgShiba
-__________________________-
+__________________________
 
 #We would like to share the contract codes of CyborgShiba with you. You can see all the details in the file we shared.
 
